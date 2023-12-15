@@ -1,0 +1,2 @@
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+<embed tyle="text-align: center;" height="100%" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="https://cdn.jsdelivr.net/gh/creativename420/swf_storage_1@907a0283a4167ab7ce5a3f46da958d9deb1abdae/Run.swf" type="application/x-shockwave-flash" width="950px">
