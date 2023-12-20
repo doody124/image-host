@@ -1,4 +1,4 @@
-var quotes = ["quote 1", "quote 2", "quote 31"];
+var quotes = ["https://ham.com", "https://google.com", "https://bing.com"];
 
 function newQuote() {
   var randomNumber = Math.floor(Math.random() * quotes.length);
